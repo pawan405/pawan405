@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursing btech cse f<br>👯 I’m looking to collaborate on open source<br>🤝 I’m looking for help with anyone<br>🌱 I’m currently learning  webdev,game dev,dsa<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently pursing btech cse <br>👯 I’m looking to collaborate on open source<br>🤝 I’m looking for help with anyone<br>🌱 I’m currently learning  webdev,game dev,dsa<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
